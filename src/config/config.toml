@@ -1,0 +1,6 @@
+[operation]
+mode = 'P'
+input_dir = 'inputs'
+output_dir = 'D:/Downloads'
+videos_dir = "videos.txt"
+playlists_dir = "playlists.txt"

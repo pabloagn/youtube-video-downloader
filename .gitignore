@@ -1,6 +1,5 @@
 # .gitignore file for project:  youtube-video-downloader
 .vscode/
 src/inputs/
-src/config/config.toml
 src/config/cookies.txt
 venv/
